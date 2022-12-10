@@ -1,0 +1,13 @@
+package Beginner;
+
+/*Situação:Aceept*/
+
+public class B_1000 {
+	/*Situação:Aceept*/
+	public void main(String[]args) {
+		
+		System.out.println("Hello World!");
+		
+	}
+
+}
